@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Veneno dulce
+
+This log tracks the cryptographic history and versioning for the song **Veneno dulce** (veneno-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:49:26.845056 | `v1` | `fbe1a4e470b455c0b8716418d80ecfa64089403a99b50795ae4241543d868ad1` | `33acefbfa12d4974bec1ba3e0b8a16397f8c0294f9e47b95045914c8410e1141` | `2026-06-18_veneno-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/veneno-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Veneno dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/veneno-dulce/) |
+| **Get License** | [Request Licensing for Veneno dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/veneno-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fbe1a4e470b455c0b8716418d80ecfa64089403a99b50795ae4241543d868ad1` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
